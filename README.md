@@ -57,7 +57,6 @@ This react_native application was built with Crowdbotics www.crowdbotics.com
 This section will show any installed modules you add from the Storyboard Modules section.
 - [react-native-splash](modules/splash)
 - [react-native-articles](modules/articles)
-- [camera]()
 - [react-native-chat](modules/chat)
 - [react-native-app-menu](modules/app-menu)
 - [django-articles](backend/modules)
